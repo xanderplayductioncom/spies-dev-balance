@@ -1,0 +1,85 @@
+{
+    "version": "20260902075936",
+    "entries": [
+        {
+            "name": "operations",
+            "version": "322ec6f4",
+            "path": "data/operations.322ec6f4.json"
+        },
+        {
+            "name": "spies",
+            "version": "34a54cec",
+            "path": "data/spies.34a54cec.json"
+        },
+        {
+            "name": "gear",
+            "version": "974dbe4a",
+            "path": "data/gear.974dbe4a.json"
+        },
+        {
+            "name": "shop-bundles",
+            "version": "5a3c31d6",
+            "path": "data/shop-bundles.5a3c31d6.json"
+        },
+        {
+            "name": "shop-loot-tables",
+            "version": "7bb31cf2",
+            "path": "data/shop-loot-tables.7bb31cf2.json"
+        },
+        {
+            "name": "unlock-animations",
+            "version": "8675d06f",
+            "path": "data/unlock-animations.8675d06f.json"
+        },
+        {
+            "name": "media",
+            "version": "0147fb75",
+            "path": "data/media.0147fb75.json"
+        },
+        {
+            "name": "boosters",
+            "version": "d9e54362",
+            "path": "data/boosters.d9e54362.json"
+        },
+        {
+            "name": "achievements",
+            "version": "b86d3a97",
+            "path": "data/achievements.b86d3a97.json"
+        },
+        {
+            "name": "daily-quests",
+            "version": "2ae577b5",
+            "path": "data/daily-quests.2ae577b5.json"
+        },
+        {
+            "name": "daily-login",
+            "version": "0a920de7",
+            "path": "data/daily-login.0a920de7.json"
+        },
+        {
+            "name": "companion-missions",
+            "version": "21e504a1",
+            "path": "data/companion-missions.21e504a1.json"
+        },
+        {
+            "name": "events",
+            "version": "22bcd224",
+            "path": "data/events.22bcd224.json"
+        },
+        {
+            "name": "event-missions",
+            "version": "504d7ab8",
+            "path": "data/event-missions.504d7ab8.json"
+        },
+        {
+            "name": "event-rewards",
+            "version": "f5079d20",
+            "path": "data/event-rewards.f5079d20.json"
+        },
+        {
+            "name": "localization",
+            "version": "4b860014",
+            "path": "localization/localization.4b860014.json"
+        }
+    ]
+}
