@@ -1,5 +1,5 @@
 {
-    "version": "20260902094035",
+    "version": "20260902105540",
     "entries": [
         {
             "name": "operations",
@@ -78,8 +78,8 @@
         },
         {
             "name": "localization",
-            "version": "4b860014",
-            "path": "data/localization.4b860014.json"
+            "version": "40301fb7",
+            "path": "data/localization.40301fb7.json"
         }
     ]
 }
