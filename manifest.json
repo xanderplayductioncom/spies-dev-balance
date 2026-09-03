@@ -1,5 +1,5 @@
 {
-    "version": "20260902105540",
+    "version": "20260903105052",
     "entries": [
         {
             "name": "operations",
@@ -8,8 +8,8 @@
         },
         {
             "name": "spies",
-            "version": "34a54cec",
-            "path": "data/spies.34a54cec.json"
+            "version": "679eb7f3",
+            "path": "data/spies.679eb7f3.json"
         },
         {
             "name": "gear",
