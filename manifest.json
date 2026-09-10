@@ -1,5 +1,5 @@
 {
-    "version": "20260903105052",
+    "version": "20260910122116",
     "entries": [
         {
             "name": "operations",
@@ -8,8 +8,8 @@
         },
         {
             "name": "spies",
-            "version": "679eb7f3",
-            "path": "data/spies.679eb7f3.json"
+            "version": "34a54cec",
+            "path": "data/spies.34a54cec.json"
         },
         {
             "name": "gear",
@@ -18,8 +18,8 @@
         },
         {
             "name": "shop-bundles",
-            "version": "5a3c31d6",
-            "path": "data/shop-bundles.5a3c31d6.json"
+            "version": "0879f4ed",
+            "path": "data/shop-bundles.0879f4ed.json"
         },
         {
             "name": "shop-loot-tables",
@@ -63,8 +63,8 @@
         },
         {
             "name": "events",
-            "version": "22bcd224",
-            "path": "data/events.22bcd224.json"
+            "version": "0e89db84",
+            "path": "data/events.0e89db84.json"
         },
         {
             "name": "event-missions",
@@ -78,8 +78,23 @@
         },
         {
             "name": "localization",
-            "version": "40301fb7",
-            "path": "data/localization.40301fb7.json"
+            "version": "ce015c23",
+            "path": "data/localization.ce015c23.json"
+        },
+        {
+            "name": "leaderboard-rewards",
+            "version": "3a48b021",
+            "path": "data/leaderboard-rewards.3a48b021.json"
+        },
+        {
+            "name": "welcome-news",
+            "version": "4feafbdb",
+            "path": "data/welcome-news.4feafbdb.json"
+        },
+        {
+            "name": "welcome-banners",
+            "version": "2fd7ea5c",
+            "path": "data/welcome-banners.2fd7ea5c.json"
         }
     ]
 }
