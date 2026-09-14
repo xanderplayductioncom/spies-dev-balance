@@ -1,5 +1,5 @@
 {
-    "version": "20260910122116",
+    "version": "20260914135524",
     "entries": [
         {
             "name": "operations",
@@ -78,8 +78,8 @@
         },
         {
             "name": "localization",
-            "version": "ce015c23",
-            "path": "data/localization.ce015c23.json"
+            "version": "b22736b9",
+            "path": "data/localization.b22736b9.json"
         },
         {
             "name": "leaderboard-rewards",
